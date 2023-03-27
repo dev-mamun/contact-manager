@@ -1,0 +1,64 @@
+.main {
+  margin-top: 5em;
+}
+
+h2 {
+  padding: 5px;
+}
+
+.trash {
+  color: red;
+  margin: 10px !important;
+}
+
+.item {
+  padding: 15px 0px !important;
+}
+
+.center {
+  justify-content: center;
+  padding: 10px;
+}
+
+.ui.search > div {
+  width: 100%;
+  padding: 5px;
+}
+
+.ui.search input {
+  width: 100%;
+  border-radius: 0 !important;
+}
+
+i.icon {
+  float: right;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.center-div {
+  text-align: center;
+}
+
+.add-btn {
+  display: flex;
+  flex-direction: row;
+  height: 38px;
+  justify-content: space-between;
+}
+
+.add-btn > h2 {
+  margin-bottom: 0;
+  text-align: left;
+}
+
+.edit {
+  margin: 10px !important;
+}
+
+.btnadd {
+  display: flex !important;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
