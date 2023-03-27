@@ -26,8 +26,7 @@
 # 📖 Art Work <a name="about-project"></a>
 
 > React app to manage contact.
-
-[Click here for more details](https://drive.google.com/file/d/1LYydyYqSOkU87gT0mqQCmJSEh4yyvoad/view?usp=share_link)
+> This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### 🛠 Tech Stack <a name="tech-stack"></a>
 
@@ -110,33 +109,74 @@ To run the project, use the following : (Port 3000)
 
 ```
   npm start
-  browse http://localhost:3000/
+  Runs the app in the development mode.\
+  Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ```
 
 To run JSON-Server, use the following : (Port 3006)
 
 ```
   npm start
-  browse http://localhost:3006/
+  Runs the app in the development mode.\
+  Open [http://localhost:3006](http://localhost:3006) to view it in your browser.
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# Getting Started with Create React App
+<!-- AUTHOR -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 👥 Authors <a name="author"></a>
+
+👤 **Abdullah AL mamun**
+
+- GitHub: [@dev-mamun](https://github.com/dev-mamun)
+- Twitter: [@CoderKnight](https://twitter.com/CoderKnight)
+- LinkedIn: [@Mamun](https://www.linkedin.com/in/dev-mamun/)
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- Uplaod contact image
+- Add contact bio
+- Add contact phone
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Give a ⭐️ if you like this project!
+
+> If you like this project feel comfortable to endorse the author.
+> You can contact the author via [Twitter](https://twitter.com/CoderKnight) or [Linkedin](https://www.linkedin.com/in/dev-mamun/) or directly message at mamun1214@gmail.com
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank...
+
+- Youtue
+- Googel
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Available Scripts
 
 In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ### `npm test`
 
@@ -205,3 +245,12 @@ here: [https://facebook.github.io/create-react-app/docs/deployment](https://face
 
 This section has moved
 here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
