@@ -98,8 +98,7 @@ Install this project with:
 Install JSON-Server:
 
 ```sh
-  cd contact-manager
-  cd json-server
+  cd contact-manager/json-server/
   npm install
 ```
 
