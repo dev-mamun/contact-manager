@@ -2,6 +2,17 @@
   "name": "contact-app",
   "version": "0.1.0",
   "private": true,
+  "scripts": {
+    "dev": "react-scripts --openssl-legacy-provider start",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "engines": {
+    "node": "16.20.2",
+    "npm": "8.x"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.3",
@@ -13,13 +24,6 @@
     "react-scripts": "4.0.1",
     "uuidv4": "^6.2.6",
     "web-vitals": "^0.2.4"
-  },
-  "scripts": {
-    "dev": "react-scripts --openssl-legacy-provider start",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
